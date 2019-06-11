@@ -19,6 +19,7 @@ public class charAlphabet {
 		if(asciivalue>=65 && asciivalue<=90 || asciivalue>=97 && asciivalue<=122)
 		{		 
 			System.out.println("\n character is alphabet");
+			System.out.println(" my message");
 		}
 		
 		else
